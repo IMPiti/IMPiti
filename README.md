@@ -5,7 +5,7 @@
 
 ## Student at Akdeniz University | Software Developer/Data Scientist
 
-<font color ="aqua"> It was work on my machine 💁💻</font>
+<font color ="aqua"> Seek knowledge</font>
 
 ### Communicate
 
